@@ -1,0 +1,27 @@
+how code excute in javascript?
+
+                        [Topic]
+--> excution contexts
+  
+1) how java script excute/run our program file.
+2) javascript run our program file in two phase.
+
+                       [Two phases]
+
+--> Memory Creation phase or Creation phase
+
+ > declare memory for variables, not excute.
+
+
+--> Excution phase
+
+ > excution of variable
+
+--> Global excution contexts
+
+1) Browser global excution context diff form Node js environment.
+2) In Browser, value of this is (window object).
+
+--> Function excution contexts
+
+--> Eval excution contexts
